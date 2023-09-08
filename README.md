@@ -8,7 +8,7 @@ These instructions will help you get the project up and running on your local ma
 
 ### Prerequisites
 
-You need to have Python pyttsx3 library  and Flask installed on your system. You can install Flask using pip:
+You need to have Python pyttsx3 library  and Flask installed on your system. You can install Flask and pyttsx3 library using pip:
 
 ```bash
 pip install Flask
