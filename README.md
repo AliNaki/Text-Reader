@@ -4,12 +4,17 @@ This is a simple Flask application that converts text to speech using the Python
 
 ## Getting Started
 
-These instructions will help you get the project up and running on your local machine for development and testing purposes.
+These instructions will help you get the project up and running on your local machine .
 
 ### Prerequisites
 
-You need to have Python pyttsx3  and Flask installed on your system. You can install Flask using pip:
+You need to have Python pyttsx3 library  and Flask installed on your system. You can install Flask using pip:
 
 ```bash
 pip install Flask
 pip install pyttsx3
+```
+
+After runnning app.py file this app available at
+```bash
+http://localhost:5000/
